@@ -35,9 +35,3 @@ Deepak Yadav
 
 ---
 
-## 📄 License
-
-This project is for learning and demonstration purposes.
-=======
-# Car-Damage-Detection
->>>>>>> 4c31371468165cce33977df28da94918fd7574f8
